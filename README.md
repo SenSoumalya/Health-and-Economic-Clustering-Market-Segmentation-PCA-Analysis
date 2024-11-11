@@ -1,6 +1,6 @@
 # Health and Economic Clustering & Market Segmentation PCA Analysis
 
-**Course Chapter:** Data Mining
+## Course: Data Mining
 
 ## Project Overview
 This project focuses on:
