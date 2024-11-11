@@ -1,5 +1,7 @@
 # Health and Economic Clustering & Market Segmentation PCA Analysis
 
+**Course Chapter:** Data Mining
+
 ## Project Overview
 This project focuses on:
 - **Clustering Analysis**: Grouping states by health and economic indicators to inform targeted policy decisions.
